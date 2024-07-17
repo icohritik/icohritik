@@ -6,11 +6,11 @@
  
 🔗  𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 
 
-   👨🏻‍🎓 Pre-final year B-Tech student  Civil Engineering at IIEST Shibpur.
+    👨🏻‍🎓 Pre-final year B-Tech in Civil Engineering at IIEST Shibpur.
    
-   🎯Currently diving into Full Stack Development and advancing in Data Structure and Alogorithm.
+    🎯Currently diving into Full Stack Development and advancing in Data Structure and Alogorithm.
    
-   ⚽Outside of tech I enjoy to play cricket and Football
+    ⚽Outside of tech I enjoy to play cricket and Football
    
     
   
