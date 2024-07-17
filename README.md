@@ -15,7 +15,8 @@
 🔗 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀:
   
    
-   ![image](https://github.com/user-attachments/assets/2e21668e-c6a3-43c2-86c0-a0636a4f16b4)
+   ![image](https://github.com/user-attachments/assets/058845f6-8a26-43b7-9848-f85d7fd26be3)
+
 
     
   
