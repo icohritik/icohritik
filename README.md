@@ -1,22 +1,39 @@
-🔗 𝗛𝗶,👋
 
-🔗  𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐇𝐫𝐢𝐭𝐢𝐤 𝐉𝐚𝐢𝐬𝐰𝐚𝐥 𝐚𝐧𝐝 
-     𝐈'𝐦 𝐚 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.
+<h1 align="center">Hi 👋, I'm HRITIK JAISWAL</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
- 
-🔗  𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 
 
-    👨🏻‍🎓 Pre-final year B-Tech in Civil Engineering at IIEST Shibpur.
-   
-    🎯Currently diving into Full Stack Development and advancing in Data Structure and Alogorithm.
-   
-    ⚽Outside of tech I enjoy to play cricket and Football
-    
-🔗 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀:
 
-  https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg
-   
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=icohritik&label=Profile%20views&color=0e75b6&style=flat" alt="icohritik" /> </p>
+
+<p align="left"> <a href="https://twitter.com/icohritik" target="blank"><img src="https://img.shields.io/twitter/follow/icohritik?logo=twitter&style=for-the-badge" alt="icohritik" /></a> </p>
+
+- 🌱 I’m currently learning **react native**
+
+- 👨‍💻 All of my projects are available at [file:///C:/Users/Hritik%20Jaiswal/OneDrive/Desktop/web%20dev%20project/portfolio/index.html](file:///C:/Users/Hritik%20Jaiswal/OneDrive/Desktop/web%20dev%20project/portfolio/index.html)
+
+- 💬 Ask me about **DSA**
+
+- 📫 How to reach me **icohritk@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/icohritik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icohritik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hritik-iiests" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hritik-iiests" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hritikjaiswal3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hritikjaiswal3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hritik_jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hritik_jaiswal" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icohritik&show_icons=true&locale=en&layout=compact" alt="icohritik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icohritik&show_icons=true&locale=en" alt="icohritik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icohritik&" alt="icohritik" /></p>
+
 
 
 
