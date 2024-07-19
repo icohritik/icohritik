@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/Hritik%20Jaiswal/OneDrive/Desktop/web%20dev%20project/portfolio/index.html](file:///C:/Users/Hritik%20Jaiswal/OneDrive/Desktop/web%20dev%20project/portfolio/index.html)
+- 👨‍💻 All of my projects are available at https://icohritik.github.io/portfolio/
 
 - 💬 Ask me about **DSA**
 
