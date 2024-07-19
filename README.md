@@ -13,7 +13,8 @@
     ⚽Outside of tech I enjoy to play cricket and Football
     
 🔗 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀:
-  
+
+  https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg
    
  
 
